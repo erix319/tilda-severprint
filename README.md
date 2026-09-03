@@ -2,7 +2,7 @@
 
 3D printing on demand — a Tilda landing page.
 
-**Live:** https://erix319.github.io/tilda-severprint/
+**Live:** https://pafuluofu-dev.github.io/tilda-severprint/
 
 ## About
 
